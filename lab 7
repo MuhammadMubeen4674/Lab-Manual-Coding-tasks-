@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+int main () { 
+
+   string name = "mubeen";
+   cout << name <<endl;
+   
+   int sap = 70174674;
+   cout << sap <<endl;
+
+   string email = "mubeen@gmail.com";
+   cout << email <<endl;
+
+   string address = "Eden villas 2, Lahore, Pakstan";
+   cout << address <<endl;
+
+   string course  = "Computer Science";
+   cout << course <<endl;
+
+   string section ="O-1";
+   cout << section <<endl;
+
+   string university ="University Of Lahore";
+   cout << university <<endl;
+
+   return 0;
+}
